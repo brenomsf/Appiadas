@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Appiadas</string>
+    <string name="joker_one">piada 1</string>
+    <string name="joker_two">piada 2</string>
+    <string name="joker_three">piada 3</string>
+    <string name="joker_four">piada 4</string>
+    <string name="joker_five">piada 5</string>
+    <string name="joker_six">piada 6</string>
+</resources>
